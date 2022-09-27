@@ -1,7 +1,7 @@
 const fs = require('fs')
 const fetch = require('node-fetch')
 let handler = async(m, { conn, text, usedPrefix, command }) => {
-let tag = `https://wa.me/qr/XHSNF7KVOZCRI1`
+let tag = `https://wa.me/6282154156241`
   let mentionedJid = [m.sender]
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 let suka = `Saya Amirr`
