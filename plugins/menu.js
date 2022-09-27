@@ -228,7 +228,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       let gw = `㋛created By ${global.author}𓂺`
       const sections = [
       {
-        title: '𝐋𝐢𝐬𝐭 𝐌𝐞𝐧𝐮 𝐁𝐲 𝐆𝐚𝐧𝐬𝐁𝐎𝐓𝐳',
+        title: '𝐋𝐢𝐬𝐭 𝐌𝐞𝐧𝐮 𝐁𝐲 XyzenBoTz ',
         rows: [
           { title: '𝑨𝑳𝑳 𝑴𝒆𝒏𝒖 📋', rowId: `${_p}? all` },
           { title: '𝑮𝒂𝒎𝒆 𝑴𝒆𝒏𝒖 🎮', rowId: `${_p}? game` },
