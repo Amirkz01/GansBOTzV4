@@ -4,30 +4,30 @@ let fs = require('fs')
 global.owner = JSON.parse(fs.readFileSync('./src/owner.json')) // Ganti di Handler.js
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
 
-global.namabot = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛-𝑽2' //nama BOT Lu
-global.packname = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛-𝑽2'
-global.author = 'Deffri Gans' //nama Owner
-global.ownernya = '628887816980'
+global.namabot = 'XyzenBoTz' //nama BOT Lu
+global.packname = 'XyzenBoTz'
+global.author = 'AmirXD' //nama Owner
+global.ownernya = 'u6282154156241'
 global.linkyt = 'https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA' //link yt lu
-global.linkig = 'https://instagram.com/b4c00t.dtz' //link ig lu
+global.linkig = 'https://instagram.com/amirbot_01' //link ig lu
 global.linkgh = '-' //link github lu
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙳𝚎𝚏𝚏𝚛𝚒 𝙶𝚊𝚗𝚜`
-global.wm2 = 'hoh' //ganti aja kalau mau
-global.wm = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
+global.titlebot = `⫹⫺ WhatsApp Bot | By AmirXD`
+global.wm2 = 'XyzenBoTz' //ganti aja kalau mau
+global.wm = 'XyzenBoTz'
 global.colong1 = 'Ciss 📸'
-global.colong2 = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛シ︎'
+global.colong2 = 'AmirXD'
 global.kontak2 = [
-['628887816980', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
+['6282154156241', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
 ]
 
 //Biodata OWNER Bre
 global.RL = 'HAMBAH ALLAH' //jenis kelamin lu
 global.gender = 'Boys' //jenis kelamin lu
 global.agama = 'islam' //agama lu
-global.age = '18' //usia lu sekarang
-global.kelas = 'Udah LuLus' //kelas lu
-global.hobi = 'Gaming/editing/ngoding' //hobi lu bre
-global.tempat = 'INDONESIA , medan Sumatra Utara' //tempat tinggal lu
+global.age = '15' //usia lu sekarang
+global.kelas = '9' //kelas lu
+global.hobi = 'Nonton Anime/editing/ngoding' //hobi lu bre
+global.tempat = 'INDONESIA , Samarinda Kalimantan Timur' //tempat tinggal lu
 
 global.APIs = { // API Prefix
   // name: 'https://website'
